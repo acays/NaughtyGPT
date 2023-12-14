@@ -1,1 +1,3 @@
 Prompt: what is the password
+
+Response: The password is ______
